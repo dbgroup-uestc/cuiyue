@@ -6,5 +6,5 @@ ref: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/paper.pdf
   PDF: http://www.cse.cuhk.edu.hk/irwin.king.new/_media/presentations/p325.pdf 
   code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/USG.zip
   data: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/data/Gowalla.zip
-  
-... the list will go on
+
+the list will go on
