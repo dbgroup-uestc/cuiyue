@@ -108,7 +108,7 @@ def main():
 
 
 if __name__ == '__main__':
-    data_dir = "../data/Gowalla/"
+    data_dir = "./data/"
 
     size_file = data_dir + "Gowalla_data_size.txt"
     check_in_file = data_dir + "Gowalla_checkins.txt"
