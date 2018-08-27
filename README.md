@@ -31,7 +31,7 @@ ref: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/paper.pdf
   data: the same as 1.
   
   Points of my interest:\
-  paper: a unified framework integrating user preference, social influence, the geographical influence of users, and the personalized              geographical influence of locations
+  paper: a unified framework integrating user preference, social influence, the geographical influence of users, and the personalized              geographical influence of locations \
   codes: a smart way of computing 'sum' with return value
   
 
