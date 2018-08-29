@@ -34,5 +34,13 @@ ref: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/paper.pdf
   paper: a unified framework integrating user preference, social influence, the geographical influence of users, and the personalized              geographical influence of locations \
   codes: a smart way of computing 'sum' with return value
   
+  10.Exploiting geographical, social and categorical correlations for point-of-interest recommendations \
+  PDF: http://www.cs.cityu.edu.hk/~chiychow/papers/SIGIR_2015.pdf \
+  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/GeoSoCa.zip \
+  data: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/data/Yelp.zip
+  
+  Points of my interest:\
+  paper: variable-bandwidth KDE \
+  
 
 the list will go on
