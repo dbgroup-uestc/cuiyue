@@ -12,7 +12,7 @@ ref: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/paper.pdf
 2.Fused Matrix Factorization with Geographical and Social Influence in Location-based Social Networks\
   PDF: http://www.cse.cuhk.edu.hk/lyu/_media/conference/cheng-aaai12.pdf?id=home&cache=cache \
   code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/MGMPFM.zip \
-  data: the same as 1.
+  data: is the same as 1.
   
   Points of my interest:\
   paper: Multi-center check-in behaviour\
@@ -23,13 +23,13 @@ ref: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/paper.pdf
 3.Exploring temporal effects for location recommendation on location-based social networks \
   PDF: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.416.4425&rep=rep1&type=pdf \
   code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/LRT.zip \
-  data: the same as 1.
+  data: is the same as 1.
 
 
 4.Personalized geo-social location recommendation a kernel density estimation approach \
   PDF: http://www.cs.cityu.edu.hk/~chiychow/papers/ACMGIS_2013a.pdf \
   code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/iGSLR.zip \
-  data: the same as 1.
+  data: is the same as 1.
   
   Points of my interest:\
   paper: a unified framework integrating user preference, social influence, the geographical influence of users, and the personalized              geographical influence of locations \
@@ -46,4 +46,10 @@ ref: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/paper.pdf
 \----------------------------------------------------------华丽的分割线----------------------------------------------------------------
   Long time no sign in (so long as to forgot password...). It is exciting to find this project got two stars! Thank you very much. These are the very first starts I've got. Besides updating the above mentioned 12 papers, I am going to follow up with state-of-art works on recommendation systems, which will be concluded in the archive named "RecSys 2018-".\
  \----------------------------------------------------------华丽的分割线---------------------------------------------------------------
-
+  
+  5.Location recommendation in location-based social networks using user check-in data \
+  PDF:  \
+  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/LFBCA.zip \
+  data: is the same as 1.
+  
+  
