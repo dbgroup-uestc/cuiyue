@@ -61,6 +61,7 @@ An Experimental Evaluation of Point-of-interest Recommendation in Location-based
   data: is the same as 1.
  
  
+ 
  7. Exploiting geographical neighborhood characteristics for location recommendation \
   PDF:http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4772&context=sis_research \
   code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/IRenMF.zip \
