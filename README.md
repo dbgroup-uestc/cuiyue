@@ -41,7 +41,7 @@ ref: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/paper.pdf
   data: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/data/Yelp.zip
   
   Points of my interest:\
-  paper: variable-bandwidth KDE 
-  /----------------------------------------------------------华丽的分割线----------------------------------------------------------------
+  paper: variable-bandwidth KDE \
+  ----------------------------------------------------------华丽的分割线----------------------------------------------------------------
   Long time no sign in (so long as to forgot password...). It is exciting to find this project got two stars! Thank you very much. These are the very first starts I've got. Besides updating the above mentioned 12 papers, I am going to follow up with state-of-art works on recommendation systems, which will be concluded in the archive named "RecSys 2018-2019".
-  /----------------------------------------------------------华丽的分割线----------------------------------------------------------------
+  ----------------------------------------------------------华丽的分割线----------------------------------------------------------------
