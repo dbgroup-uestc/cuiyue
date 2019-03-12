@@ -50,21 +50,21 @@ An Experimental Evaluation of Point-of-interest Recommendation in Location-based
   2019.3.12\
  \----------------------------------------------------------华丽的分割线---------------------------------------------------------------
   
-  5.Location recommendation in location-based social networks using user check-in data \
-  PDF:  https://www.researchgate.net/profile/Manolis_Terrovitis/publication/260294299_Location_Recommendation_in_Location-based_Social_Networks_using_User_Check-in_Data/links/0f317530ac8b50c7bc000000.pdf \
-  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/LFBCA.zip \
-  data: is the same as 1.
+5.Location recommendation in location-based social networks using user check-in data \
+PDF:  https://www.researchgate.net/profile/Manolis_Terrovitis/publication/260294299_Location_Recommendation_in_Location-based_Social_Networks_using_User_Check-in_Data/links/0f317530ac8b50c7bc000000.pdf \
+code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/LFBCA.zip \
+data: is the same as 1.
   
- 6.Lore: Exploiting sequential influence for location recommendations \
-  PDF:   http://users.wpi.edu/~yli15/Includes/SIGSPATIAL2014_lore.pdf  \
-  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/LORE.zip \
-  data: is the same as 1.
+6.Lore: Exploiting sequential influence for location recommendations \
+PDF:   http://users.wpi.edu/~yli15/Includes/SIGSPATIAL2014_lore.pdf  \
+code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/LORE.zip \
+data: is the same as 1.
  
  
 7. Exploiting geographical neighborhood characteristics for location recommendation \
-  PDF:http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4772&context=sis_research \
-  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/IRenMF.zip \
-  data: is the same as 1.
+PDF:http://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4772&context=sis_research \
+code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/IRenMF.zip \
+data: is the same as 1.
   
   
  8.Geomf: Joint geographical modeling and matrix factorization for point-of-interest recommendation \
