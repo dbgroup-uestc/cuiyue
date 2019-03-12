@@ -45,7 +45,9 @@ An Experimental Evaluation of Point-of-interest Recommendation in Location-based
   paper: variable-bandwidth KDE 
  
 \----------------------------------------------------------华丽的分割线----------------------------------------------------------------
-  Long time no sign in (so long as to forgot password...). It is exciting to find this project got two stars! Thank you very much. These are the very first starts I've got. Besides updating the above mentioned 12 papers, I am going to follow up with state-of-art works on recommendation systems, which will be concluded in the archive named "RecSys 2018-".\
+  Long time no sign in (so long as to forgot password:) ). It is exciting to find this project got two stars! Thank you so much. These are the very first starts I've got. Also many thanks to Liu et al.! It is them who have done these great intensive evaluation works (especially codes) and I'm only a porter. \
+  Besides continue updating 12 papers, I am going to follow up with state-of-art works on recommendation systems, which will be presented in the new archive named "RecSys 2018-" More detailed discussion is also documented there.\
+  2019.3.12\
  \----------------------------------------------------------华丽的分割线---------------------------------------------------------------
   
   5.Location recommendation in location-based social networks using user check-in data \
