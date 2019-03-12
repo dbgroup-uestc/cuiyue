@@ -48,8 +48,47 @@ ref: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/paper.pdf
  \----------------------------------------------------------华丽的分割线---------------------------------------------------------------
   
   5.Location recommendation in location-based social networks using user check-in data \
-  PDF:  \
+  PDF:  https://www.researchgate.net/profile/Manolis_Terrovitis/publication/260294299_Location_Recommendation_in_Location-based_Social_Networks_using_User_Check-in_Data/links/0f317530ac8b50c7bc000000.pdf\
   code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/LFBCA.zip \
   data: is the same as 1.
+  
+    6.Lore: Exploiting sequential influence for location recommendations \
+  PDF:  \
+  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/LORE.zip \
+  data: is the same as 1.
+ 
+ 
+ 7. Exploiting geographical neighborhood characteristics for location recommendation \
+  PDF:  http://users.wpi.edu/~yli15/Includes/SIGSPATIAL2014_lore.pdf\
+  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/IRenMF.zip \
+  data: is the same as 1.
+  
+  
+   8.Geomf: Joint geographical modeling and matrix factorization for point-of-interest recommendation \
+  PDF:  http://staff.ustc.edu.cn/~cheneh/paper_pdf/2014/Defu-Lian-KDD.pdf\
+  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/GeoMF.zip \
+  data: is the same as 1.
+  
+    
+   *9.Rank-geofm: A ranking based geographical factorization method for point of interest recommendation \
+  PDF:  https://www.researchgate.net/profile/Xutao_Li2/publication/278031194_Rank-GeoFM_A_Ranking_based_Geographical_Factorization_Method_for_Point_of_Interest_Recommendation/links/55d2c94e08ae0b8f3ef8e812.pdf\
+  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/RankGeoFM.zip \
+  data: is the same as 1.
+  
+  Points of my interest: The novelty of Rank-GeoFM lies in its definition of loss function. It considers the incompatibility between rankings and estimated scores of POIs. It worth mentioned that among all 12 models, Rank-GeoFM performs almost always the best in various metrics, according to Liu et al..  
+  
+    
+   11.Geosoca: Exploiting geographical, social and categorical correlations for point-of-interest recommendations \
+  PDF:  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.703.9373&rep=rep1&type=pdf\
+  code: http://spatialkeyword.sce.ntu.edu.sg/eval-vldb17/code/GeoSoCa.zip \
+  data: is the same as 1.
+  
+  
+     12.Point-of-interest recommendations: Learning potential check-ins from friends \
+  PDF:  https://www.kdd.org/kdd2016/papers/files/rfp0448-liA.pdf\
+  code: comming soon \
+  data: is the same as 1.
+  
+  
   
   
